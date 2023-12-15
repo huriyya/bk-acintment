@@ -1,0 +1,16 @@
+.sekil{
+    height: 300px;
+    width: 250px;
+    background-image: url(yolkapg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.sekil2{
+    height:300px;
+    width: 250px;
+    background-image: url(qisjpg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
